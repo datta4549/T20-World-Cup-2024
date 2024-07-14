@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "t20wc_2024"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e34a94cb-1bd4-48ab-bd4d-c164bc2a599d"
+  }
+}

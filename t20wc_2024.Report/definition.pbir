@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../t20wc_2024.SemanticModel"
+    },
+    "byConnection": null
+  }
+}
